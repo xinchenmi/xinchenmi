@@ -1,8 +1,9 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJXCK520)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hi there 👋
 
-I'm Otstar Lin. A indie software developer and a college student.
-
-Here are some ideas to get you started:
+I'm XinChen Mi. A indie software developer and a college student.
 
 🌱 I’m currently learning:
 
