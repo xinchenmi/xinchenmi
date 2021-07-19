@@ -18,10 +18,10 @@ I'm XinChen Mi. A indie software developer and a college student.
 
 &ensp;&ensp;&ensp;![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Microsoft Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=fff) ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=fff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=fff) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff)
 
-### 关于我
-- [博客](https://blog.miaobai.cc/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+### About Me
+- [Blog](https://blog.miaobai.cc/)
+- [Telegram](https://t.me/xinchenmi)
+- [Hostloc](https://hostloc.com/?53027)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
