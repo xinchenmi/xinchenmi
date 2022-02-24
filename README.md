@@ -10,7 +10,7 @@ I'm XinChenMi. A indie software developer and a college student.
 
 https://www.sbgzny.com/
 
-This is the forum I am running, maybe you are interested to watch it, thank you my friend!
+*This is the forum I am running, maybe you are interested to watch it, thank you my friend!*
 
 
 🌱 I’m currently learning:
