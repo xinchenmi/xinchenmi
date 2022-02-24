@@ -12,7 +12,6 @@ https://www.sbgzny.com/
 
 This is the forum I am running, maybe you are interested to watch it, thank you my friend!
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 🌱 I’m currently learning:
 
