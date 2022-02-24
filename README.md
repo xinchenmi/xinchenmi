@@ -70,9 +70,9 @@ This is the forum I am running, maybe you are interested to watch it, thank you 
 </table>
 
 ### About Me
-- [Blog](https://blog.miaobai.cc/)
+- [Blog](https://www.ckajx.com/)
 - [Telegram](https://t.me/xinchenmi)
-- [Hostloc](https://hostloc.com/?53027)
+- [forum](https://www.sbgzny.com/)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
