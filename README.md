@@ -4,7 +4,15 @@
 
 ### Hi there 👋
 
-I'm XinChen Mi. A indie software developer and a college student.
+I'm XinChenMi. A indie software developer and a college student.
+
+### My forum 👋
+
+https://www.sbgzny.com/
+
+This is the forum I am running, maybe you are interested to watch it, thank you my friend!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 🌱 I’m currently learning:
 
