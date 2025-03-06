@@ -8,7 +8,7 @@ I'm XinChenMi. A indie software developer and a college student.
 
 ### My forum 👋
 
-https://www.ckajx.com/
+https://blog.nsrx.ru/
 
 *This is the forum I am running, maybe you are interested to watch it, thank you my friend!*
 
